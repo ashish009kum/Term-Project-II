@@ -1,0 +1,16 @@
+.connect-us{
+    font-size: 20px;
+    padding-top: 4px;
+}
+
+.connect-us a{
+    font-size: 30px;
+    color: aliceblue;
+}
+
+.footer{
+    position:fixed;
+    bottom:0;
+    width:100%;
+    color: grey;
+}
